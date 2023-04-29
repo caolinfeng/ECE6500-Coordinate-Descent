@@ -1,5 +1,5 @@
 # ECE6500 Project (Coordinate-Descent Method)
-This is a Python implmentation of Coordinate Descent for Lasso Regression
+This is a Python implmentation of Coordinate Descent for Lasso Regression.
 
 By Team 11: Linfeng Cao, Yining Li
 
