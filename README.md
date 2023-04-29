@@ -20,3 +20,6 @@ We use three datasets generated / imported from [sklearn](https://scikit-learn.o
 |  ----  | ---- | ---- | ---- |
 | Samples total  | 100 | 442 | 20640 |
 | Dimensionality  | 10 | 10 | 8 |
+
+### Usage
+Run the python code in each cell in `project.ipynb`.
