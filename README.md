@@ -1,6 +1,6 @@
 # ECE6500 Project (Coordinate-Descent Method)
-### Team 11: Linfeng Cao, Yining Li
 This is a Python implmentation of Coordinate Descent for Lasso Regression
+By Team 11: Linfeng Cao, Yining Li
 
 ### Dependencies
 
